@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lecture — Le Silence de la faille</title>
+    <meta
+      name="description"
+      content="Lecture en ligne de Le Silence de la faille, avec navigation entre les chapitres du roman."
+    />
+    <meta name="theme-color" content="#111318" />
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./site.js" defer></script>
+  </head>
+  <body class="reader-page" data-total-chapters="170">
+    <header class="reader-hero">
+      <div class="container">
+        <a class="back-link" href="./index.html#chapitres">← Retour à la table des chapitres</a>
+
+        <div class="reader-hero-grid">
+          <div>
+            <p class="eyebrow">Le Silence de la faille</p>
+            <h1 data-page-title>Chapitre 1</h1>
+            <p class="reader-progress" data-reader-progress>Chapitre 1 sur 170</p>
+          </div>
+
+          <div class="reader-actions">
+            <a class="button button-secondary" data-prev-link href="./reader.html?chapter=1">Chapitre précédent</a>
+            <a class="button button-primary" data-next-link href="./reader.html?chapter=2">Chapitre suivant</a>
+          </div>
+        </div>
+
+        <form class="jump-form compact" data-jump-form>
+          <label for="reader-chapter-number">Aller directement à un chapitre</label>
+          <div class="jump-row">
+            <input
+              id="reader-chapter-number"
+              name="chapter"
+              type="number"
+              min="1"
+              max="170"
+              inputmode="numeric"
+              placeholder="Numéro de chapitre"
+              required
+            />
+            <button class="button button-secondary" type="submit">Aller</button>
+          </div>
+        </form>
+      </div>
+    </header>
+
+    <main class="container reading-shell">
+      <section class="card reading-card">
+        <p class="loading-state" data-loading-state>Chargement du chapitre…</p>
+        <article class="prose" data-chapter-content></article>
+      </section>
+
+      <nav class="reader-bottom-nav" aria-label="Navigation entre les chapitres">
+        <a class="button button-secondary" data-prev-link-bottom href="./reader.html?chapter=1">← Précédent</a>
+        <a class="button button-secondary" href="./index.html#chapitres">Table des chapitres</a>
+        <a class="button button-primary" data-next-link-bottom href="./reader.html?chapter=2">Suivant →</a>
+      </nav>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>Le Silence de la faille</p>
+      </div>
+    </footer>
+  </body>
+</html>
