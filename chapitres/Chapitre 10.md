@@ -6,7 +6,7 @@ Dans la grotte, la lumière n’entrait jamais franchement. Elle s’annonçait 
 
 Rissma n’avait presque pas dormi.
 
-Ou plutôt, comme les nuits précédentes, elle avait glissé par instants dans un sommeil mince, toujours prête à remonter à la surface au moindre son. Mais cette fois, quelque chose avait changé : sa vigilance ne se tournait plus seulement vers le Guerrier Noir. Une grande part d’elle restait suspendue à la respiration de Lily, à ses mouvements trop faibles, au petit bruit sec de ses réveils brusques.
+Ou plutôt, comme les nuits précédentes, elle avait glissé par instants dans un sommeil mince, toujours prête à remonter à la surface au moindre son. Mais cette fois, quelque chose avait changé : sa vigilance ne se tournait plus seulement vers le Guerrier Noir. Une grande part d’elle restait suspendue à la respiration de l’enfant, à ses mouvements trop faibles, au petit bruit sec de ses réveils brusques.
 
 Quand l’enfant ouvrit les yeux à l’aube, elle ne parla pas.
 
@@ -16,13 +16,13 @@ Elle regarda d’abord le plafond de roche, perdue. Puis le feu. Puis Rissma. So
 
 Le mot abri sonna fragile même à ses propres oreilles.
 
-Lily cligna lentement des yeux. Avec un peu plus de lumière, Rissma distinguait mieux à présent son petit visage étroit, ses pommettes encore d’enfant sous la maigreur et ces yeux trop grands, trop vieux pour son âge. Ses lèvres sèches remuèrent un peu. Aucun son n’en sortit.
+L’enfant cligna lentement des yeux. Avec un peu plus de lumière, Rissma distinguait mieux à présent son petit visage étroit, ses pommettes encore d’enfant sous la maigreur et ces yeux trop grands, trop vieux pour son âge. Ses lèvres sèches remuèrent un peu. Aucun son n’en sortit.
 
 — De l’eau ? demanda Rissma.
 
 L’enfant eut un mouvement presque imperceptible du menton.
 
-Rissma prit la petite gourde et l’approcha. Derrière elle, elle entendit le Guerrier bouger, puis le bruit du cuir, celui d’un récipient qu’on déplace. Elle sentit aussitôt la tension revenir chez Lily sans même avoir besoin de se retourner.
+Rissma prit la petite gourde et l’approcha. Derrière elle, elle entendit le Guerrier bouger, puis le bruit du cuir, celui d’un récipient qu’on déplace. Elle sentit aussitôt la tension revenir chez l’enfant sans même avoir besoin de se retourner.
 
 — Doucement, murmura-t-elle à l’enfant.
 
@@ -34,17 +34,17 @@ Le silence dura une seconde.
 
 Le Guerrier s’arrêta.
 
-Rissma sentit une chaleur rapide lui traverser la nuque. Elle venait encore de parler comme si elle avait le droit d’indiquer quelque chose. Comme si l’urgence autour de Lily lui faisait oublier par moments la place qu’elle croyait être la sienne.
+Rissma sentit une chaleur rapide lui traverser la nuque. Elle venait encore de parler comme si elle avait le droit d’indiquer quelque chose. Comme si l’urgence autour de la petite lui faisait oublier par moments la place qu’elle croyait être la sienne.
 
 Mais il ne dit rien.
 
 Il resta là où il était.
 
-Rissma aida Lily à boire quelques gouttes, puis davantage. L’enfant avalait mal encore, mais mieux que la veille. À chaque petite réussite, Rissma sentait une tension invisible se desserrer en elle. Elle n’aurait pas su dire si c’était de l’espoir. Peut-être seulement la preuve qu’un corps si abîmé pouvait encore choisir de rester du côté des vivants.
+Rissma aida l’enfant à boire quelques gouttes, puis davantage. L’enfant avalait mal encore, mais mieux que la veille. À chaque petite réussite, Rissma sentait une tension invisible se desserrer en elle. Elle n’aurait pas su dire si c’était de l’espoir. Peut-être seulement la preuve qu’un corps si abîmé pouvait encore choisir de rester du côté des vivants.
 
 Le Guerrier Noir posa ensuite près du feu une écuelle où il avait fait gonfler une galette d’orge émiettée dans de l’eau chaude avec un peu de sel. Rien de raffiné. Rien de vraiment bon non plus. Mais de quoi nourrir un peu sans détruire un ventre trop vide.
 
-Quand il apporta l’écuelle, Lily se crispa de nouveau.
+Quand il apporta l’écuelle, l’enfant se crispa de nouveau.
 
 Le Guerrier la vit. Son visage se referma, non de colère, mais de cette dureté sèche qu’il prenait chaque fois qu’une situation lui échappait autrement que par la force. Il posa le bol plus loin, à portée de Rissma, puis se redressa aussitôt.
 
@@ -60,7 +60,7 @@ Le mot était tombé sans explication. Comme toujours.
 
 Rissma obéit.
 
-Elle prit une petite cuillerée du mélange et la porta d’abord à sa bouche. La chaleur simple de la galette gonflée d’eau lui parut presque étrangère. Puis elle souffla sur la suivante et l’approcha des lèvres de Lily.
+Elle prit une petite cuillerée du mélange et la porta d’abord à sa bouche. La chaleur simple de la galette gonflée d’eau lui parut presque étrangère. Puis elle souffla sur la suivante et l’approcha des lèvres de l’enfant.
 
 L’enfant hésita. Son regard passa du bol à Rissma, puis plus loin, vers le Guerrier resté près du feu. Finalement, elle ouvrit la bouche.
 
@@ -70,7 +70,7 @@ Rissma sentit un soulagement si vif qu’elle dut baisser les yeux pour le conte
 
 Ils avancèrent ainsi, bouchée après bouchée.
 
-Le temps semblait à nouveau s’être replié autour de choses minuscules : faire boire, faire avaler, attendre, reprendre. Pourtant, au milieu de cette patience, Rissma sentait aussi autre chose grandir : une forme de certitude silencieuse que, si elle relâchait trop tôt son attention, Lily retomberait du mauvais côté du monde.
+Le temps semblait à nouveau s’être replié autour de choses minuscules : faire boire, faire avaler, attendre, reprendre. Pourtant, au milieu de cette patience, Rissma sentait aussi autre chose grandir : une forme de certitude silencieuse que, si elle relâchait trop tôt son attention, l’enfant retomberait du mauvais côté du monde.
 
 Cette peur-là n’était pas la même que les autres.
 

@@ -236,7 +236,7 @@ Cette fois, la dureté passa franchement dans le visage d'Aelwen.
 
 Le mot claqua plus sec qu'avant.
 
-- On a muré les accès qu'on pouvait murer. On a brûlé les chemins vers le cœur. On a gardé les abords. Ceux du Seuil sont descendus tant qu'ils l'ont pu. On a fait tomber ceux qui cherchaient à descendre. Et on a tenté de refermer.
+- On a muré les accès qu'on pouvait murer. On a brûlé les chemins vers le cœur. On a gardé les abords. Ceux du Seuil, ceux qui tenaient cette garde, sont descendus tant qu'ils l'ont pu. On a fait tomber ceux qui cherchaient à descendre. Et on a tenté de refermer.
 
 Elle marqua un silence.
 
@@ -252,7 +252,7 @@ La phrase resta suspendue dans l'air comme une fatigue trop longue.
 
 Aelwen hocha la tête.
 
-- Oui. Son sang peut recaler ce qui a été rouvert. Un temps.
+- Oui. Son sang peut recaler ce qui a été rouvert.
 
 Pendant un instant, la phrase fit naître chez Rissma quelque chose qui ressemblait presque à de l'espoir.
 
@@ -364,7 +364,7 @@ Garder la blessure ouverte parce qu'elle peut nourrir ceux qui rêvent de puissa
 
 Le mot tomba sans détour.
 
-- Ou la faire mourir au mauvais endroit, au mauvais moment, dans quelque chose de détourné. Son sang peut encore entrer dans ce que les anciens appelaient fermer. Il peut aussi servir à ouvrir davantage.
+- Ou la faire mourir au mauvais endroit, au mauvais moment, dans quelque chose de détourné. Son sang peut encore servir à refermer ce qui a été rouvert. Il peut aussi servir à ouvrir davantage.
 
 Rissma recula d'un demi-pas.
 
@@ -374,7 +374,7 @@ Le corps de Lily.
 Son sang.
 Sa mort.
 
-D'un côté pour ce qu'ils appelaient refermer.
+D'un côté pour refermer.
 De l'autre pour livrer le monde à pire.
 
 - Non, souffla-t-elle.
