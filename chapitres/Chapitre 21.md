@@ -354,9 +354,9 @@ Aelwen ferma les yeux une seconde. Puis les rouvrit.
 
 Soren hocha de nouveau la tête.
 
-Aelwen ouvrit alors sa besace et en sortit trois petits paquets de tissu huilé, une fiole brune et un pot de pâte sombre qu'elle posa sur le coffre, entre la gourde et les maigres provisions.
+Aelwen ouvrit alors sa besace et en sortit quelques petits paquets de tissu, une fiole brune et un pot de pâte sombre qu'elle posa sur le coffre, entre la gourde et les maigres provisions.
 
-- Ça, dit-elle en montrant la fiole, si la fièvre remonte trop. Deux gouttes dans l'eau. Pas plus. Ça, ajouta-t-elle en désignant l'un des paquets, si la douleur la plie trop pour qu'elle respire ou marche. Et la pâte, sur les plaies si la route les rouvre.
+- De quoi vous faire tenir si la route tourne mal, dit-elle simplement.
 
 Rissma regarda les objets comme si on lui donnait plus que des remèdes : du temps, compté en gestes précis.
 

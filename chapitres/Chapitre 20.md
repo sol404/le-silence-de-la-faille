@@ -194,7 +194,7 @@ Aelwen détourna un instant les yeux. Quand elle parla de nouveau, sa voix étai
 
 Aelwen baissa encore la voix.
 
-- Hors d'ici ne suffira pas. Si vous disparaissez seulement pour une nuit, ils vous chercheront dès demain avec la conscience tranquille. Il faudra passer sous le bas des racines, rejoindre l'eau noire, tenir jusqu'aux pierres plates et leur laisser là des traces assez pauvres pour qu'ils ne sachent plus s'ils vous suivent ou s'ils vous imaginent encore. Il faudra mettre entre eux et l'enfant assez de terrain, assez de silence, assez d'incertitude pour qu'ils cessent de croire qu'ils peuvent encore décider vite.
+- Hors d'ici ne suffira pas. Si vous disparaissez seulement pour une nuit, ils vous chercheront dès demain avec la conscience tranquille. Si vous partez, passez par le bas des racines avant qu'on pense à le garder. Rejoignez l'eau noire. Aux pierres plates, brouillez ce que vous pourrez de votre passage. Il faudra ensuite mettre entre eux et l'enfant assez de terrain, assez de silence, assez d'incertitude pour qu'ils cessent de croire qu'ils peuvent encore décider vite.
 
 Rissma sentit ces mots prendre une forme très simple dans son ventre.
 

@@ -6,7 +6,7 @@ Le silence y resta, oui. Mais un silence occupé, travaillé de partout par ce q
 
 Aelwen, elle, ne perdit plus une seconde.
 
-Elle vida sa besace sur le coffre : deux bandes de laine roulées serré, un morceau de toile cirée, une cape d'enfant trop simple pour être remarquable, une autre plus grande pour Rissma, une petite boîte d'onguent, la fiole brune déjà montrée, et deux sachets de poudre enfermés dans du tissu noué.
+Elle acheva de vider sa besace sur le coffre : deux bandes de laine roulées serré, un morceau de toile cirée, une cape d'enfant trop simple pour être remarquable, une autre plus grande pour Rissma. Puis elle rapprocha du bord la petite boîte d'onguent, la fiole brune et les deux sachets de poudre qu'elle avait déjà posés là.
 
 Rissma regardait cela sans parler.
 

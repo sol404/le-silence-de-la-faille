@@ -96,7 +96,7 @@ Jusqu’ici, elle n’avait été que peur, fatigue, soumission, effort pour com
 
 Et cela ne venait pas seulement de pitié.
 
-Quelque chose, devant cette enfant, se soulevait plus profondément en elle. Comme si voir Lily ainsi avait brisé d’un seul coup la vieille frontière intérieure entre subir et regarder subir. Comme si, pour la première fois depuis des années, sa peur d’elle-même reculait assez pour laisser passer autre chose qu’un simple instinct de conservation.
+Quelque chose, devant cette enfant, se soulevait plus profondément en elle. Comme si la voir ainsi avait brisé d’un seul coup la vieille frontière intérieure entre subir et regarder subir. Comme si, pour la première fois depuis des années, sa peur d’elle-même reculait assez pour laisser passer autre chose qu’un simple instinct de conservation.
 
 Elle posa une main sur les cheveux collés de l’enfant et les écarta doucement de son front.
 

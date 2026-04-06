@@ -129,7 +129,7 @@ Cette fois, Soren ne répondit pas tout de suite.
 
 Rissma regarda son profil. La lumière pauvre du matin prenait de côté sa mâchoire, ses mains usées, la fatigue dure restée sous ses yeux. Il n'avait pas l'air d'un homme qui garde une destination propre dans sa poche. Il avait l'air d'un homme qui compte seulement sur le prochain terrain, la prochaine nuit, la prochaine erreur des autres.
 
-— Assez loin pour leur faire perdre la main, finit-il par dire. D'abord un trou qui tienne deux nuits de suite, de l'eau, et un peu de temps pour qu'elle reprenne. Après seulement, on choisira mieux.
+— Assez loin pour qu'ils perdent notre piste, finit-il par dire. D'abord un trou qui tienne deux nuits de suite, de l'eau, et un peu de temps pour qu'elle reprenne des forces. Après seulement, on verra mieux.
 
 Lily fronça à peine les sourcils.
 
